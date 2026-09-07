@@ -1,0 +1,25 @@
+| Customer's actual problem              | Category         | Priority |
+| -------------------------------------- | ---------------- | -------- |
+| Double charged                         | Payment & Refund | P1       |
+| Refund overdue                         | Payment & Refund | P1       |
+| Unauthorized/fraud transaction         | Payment & Refund | P1       |
+| Payment taken but order not confirmed  | Payment & Refund | P1       |
+| Wrong item                             | Order Issue      | P2       |
+| Missing item                           | Order Issue      | P2       |
+| Change address/order                   | Order Issue      | P3       |
+| Delayed package                        | Delivery         | P2       |
+| Tracking stuck                         | Delivery         | P2       |
+| Failed delivery                        | Delivery         | P2       |
+| Marked delivered but not received      | Delivery         | P2       |
+| ETA question                           | Delivery         | P3       |
+| Unauthorized account access            | Account & Login  | P1       |
+| Can't log in                           | Account & Login  | P2       |
+| OTP not arriving                       | Account & Login  | P2       |
+| App crashes during login               | Account & Login  | P2       |
+| Update phone/email/profile             | Account & Login  | P3       |
+| Damaged/defective product              | Product Quality  | P2       |
+| Quality complaint + return/replacement | Product Quality  | P2       |
+| Quality feedback only                  | Product Quality  | P3       |
+| Discount/policy question               | Other            | P3       |
+| Feature request                        | Other            | P3       |
+| Thanks/feedback                        | Other            | P3       |
